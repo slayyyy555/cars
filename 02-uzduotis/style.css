@@ -1,0 +1,226 @@
+.nuoma {
+    font-family: "Poppins", serif;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    box-shadow: 0px 4px 4px 0px rgba(231, 133, 43, 0.13);
+    background-color: white;
+}
+
+body {
+    background-color: rgb(249, 249, 249);
+}
+
+.nuoma ul {
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+    padding-right: 150px;
+    padding-top: 10px;
+    
+}
+
+.nuoma a {
+    text-decoration: none;
+    color: black;
+    transition: 0.3s all;
+}
+
+.nuoma h3 {
+    padding-left: 150px;
+}
+
+.nuoma a:hover {
+    border: 1px solid rgba(231, 133, 43, 1) ;
+    border-radius: 20px;
+    gap: 40px;
+    padding: 0 10px 0 10px;
+    background-color:rgba(231, 133, 43, 1) ;
+    color: white;
+
+}
+
+
+.blokas1 h1, p {
+    font-family: "Poppins", serif;
+    margin: 0;
+}
+
+.blokas1 p {
+    color: rgba(231, 133, 43, 1) ;
+    font-size: 20px;
+    padding-left: 130px;
+}
+
+.blokas1 h1 {
+    font-size:80px ;
+    padding-top: 120px;
+    padding-left: 130px;
+}
+
+#automobilius {
+    border: solid rgba(231, 133, 43, 1);
+    background-color: rgba(231, 133, 43, 1);
+    color: white;
+    padding: 12px 25px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left:130px;
+   
+}
+
+#susisiekti {
+    border: 2px solid black ;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 12px 25px;
+    color: black;
+    margin-left:10px;
+}
+
+.blokas1 a {
+    text-decoration: none;
+    font-family: "Inter", serif;
+}
+
+.container {
+    display: flex;
+    justify-content:flex-end;
+    gap: 70px;
+}
+
+.photo img {
+    width: 90%;
+    padding-left: 97px;
+}
+
+.orange {
+    border: 3px solid rgba(231, 133, 43, 1);
+    background-color: rgba(231, 133, 43, 1);
+    color: white;
+    padding: 30px 300px;
+}
+
+.orange p {
+    font-size: 12px;
+}
+
+.bmw {
+    border: solid white;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 5px 0px rgba(0, 0, 0, 0.15);
+    width: 370px;
+    height: 540px;
+    margin-left: 30px;
+}
+
+
+.beha a {
+    font-family: "Inter", serif;
+    text-decoration: none;
+}
+
+.beha p{
+    border: solid rgba(244, 202, 164, 1) ;
+    background-color: rgba(244, 202, 164, 1);
+    padding: 5px 37px 5px 32px;
+    border-radius: 8px;
+    width:200px ;
+    color: rgba(91, 49, 11, 1);
+    margin-left: 30px;
+    font-family: "Poppins", serif;
+}
+
+.beha h3 {
+    margin-left: 30px;
+    font-size: 32px;
+    font-family: "Poppins", serif;
+}
+
+.beha .daugiau {
+    margin-left: 30px;
+    border: solid rgba(231, 133, 43, 1);
+    background-color: rgba(231, 133, 43, 1);
+    color: white;
+    padding: 16px 42px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.beha .bottom {
+    border: 2px solid black ;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 16px 42px;
+    color: black;
+
+}
+
+.photo1 img {
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.text h2 {
+    font-family:"Poppins", serif ;
+    font-size: 48px;
+    margin: 100px 0 20px 150px;
+}
+
+.blokas3 {
+    display: flex;
+    justify-content: center;
+}
+
+.blokas3 #png {
+    width: 357px;
+}
+
+.blokas2 {
+    display: flex;
+    justify-content: center;
+}
+
+.blokas4 h3 {
+    font-family:"Poppins", serif ;
+}
+
+.blokas4 li {
+    font-family: "Inter", serif;
+}
+
+.blokas4 p {
+    font-family: "Inter", serif;
+    color: rgba(119, 119, 119, 1);
+}
+
+.blokas4 {
+    border: solid white;
+    background-color: white;
+    margin-top: 110px;
+    display: flex;
+    padding: 50px ;
+}
+
+.blokas4 ul {
+    list-style-type: none;
+}
+
+.informacija {
+    display: flex;
+    gap: 50px;
+    padding-left: 200px;
+}
+
+.tekstas p {
+   padding: 70px 0 70px 130px;
+}
+
+.informacija .vector li {
+    color: rgba(231, 133, 43, 1);
+}
+
+.informacija .taksa li {
+   color: rgba(119, 119, 119, 1);
+}
